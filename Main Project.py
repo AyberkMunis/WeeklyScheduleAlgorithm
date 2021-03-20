@@ -33,7 +33,7 @@ while True:
     If you finish your list , please type q and press enter
     If you want to quit from the app, type bye and press enter (You must write this after 'Please write number of the job you want to manage')
     """)
-    operation=input("Please write number of the job you want to edit:") #Selection of job the user wants to manage
+    operation=input("Please write number of the job you want to edit:") #Selection of job that the user wants to manage
 
     if operation=="1" or operation=="Job1":
 
@@ -41,7 +41,7 @@ while True:
         name = ""
         operation2 = input("Have you already added a name to jobs1(If you did write yes, else press enter):")
         if operation2.lower() == "yes":
-            name = input("Please write his/her name:") #You type the name which you have already written manually, if you don'T you can press enter
+            name = input("Please write his/her name:") #You type the name which you have already written manually, if you don't write something, you can press enter
         print("Now you write new people to job1")
         while True:
             people = input("Type name of the person:")
