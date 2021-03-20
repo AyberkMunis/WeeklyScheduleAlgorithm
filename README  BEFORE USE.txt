@@ -1,4 +1,4 @@
-The main purpose of this algorithm, placing names, which you typed, to a specific job on a randomly chosen day.  The algorithm assumes that a worker can only
+The main purpose of this algorithm, is arranging weekly schedules of companies that have multiple tasks for each employee.  The algorithm assumes that a worker can only
 do one duty on each day, so it restricts usage of the name more than one time for this day.
 
 Problems are possible to face with
