@@ -3,9 +3,9 @@ The main purpose of this algorithm, is arranging weekly schedules of companies t
 do one duty on each day, so it restricts usage of the name more than one time for this day.
 
 Problems are possible to face with
-1.Infinite Loop
+* 1. Infinite Loop
 If the loop in classes is in an infinite loop, your condition must be impossible. You can check your condition and check again.
-2.Don't Save the database
+* 2. Don't Save the database
 If you don't save the database, your algorithm should be crashed. Save your database and try again
 
 ---------The Main Process--------------
