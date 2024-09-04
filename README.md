@@ -1,4 +1,4 @@
-# WeeklyScheduleAlgorithm
+# WeeklyScheduleAlgorithm :notebook_with_decorative_cover:
 The main purpose of this algorithm, is arranging weekly schedules of companies that have multiple tasks for each employee.  The algorithm assumes that an employee can only
 do one duty on each day, so it restricts usage of the name more than one time for this day.
 
